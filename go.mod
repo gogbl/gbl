@@ -1,3 +1,3 @@
 module github.com/gogbl/gbl
 
-go 1.26.4
+go 1.27.2
